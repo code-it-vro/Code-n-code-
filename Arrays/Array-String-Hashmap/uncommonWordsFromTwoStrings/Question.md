@@ -30,6 +30,21 @@ s1 and s2 consist of lowercase English letters and spaces.
 s1 and s2 do not have leading or trailing spaces.
 All the words in s1 and s2 are separated by a single space.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 
@@ -37,17 +52,20 @@ All the words in s1 and s2 are separated by a single space.
 
 
 
-
-# ///////////////////////////////// Approcah and explanation below ///////////////////////////
-
+# Approcah and explanation below 
 
 
+&nbsp;
 
 ## Approach:
 Split Sentences: First, split both sentences s1 and s2 into arrays of words.
 Count Occurrences: Create an object temp to store the count of each word across both sentences.
 Filter Uncommon Words: Filter out words that only appear exactly once from the combined list of words.
 
+
+&nbsp;
+
+&nbsp;
 
 ## Explanation:
 Splitting: s1.split(' ') and s2.split(' ') convert sentences into arrays of words.
