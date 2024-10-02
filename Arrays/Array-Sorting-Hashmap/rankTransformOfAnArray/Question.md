@@ -36,15 +36,16 @@ Given an array of integers `arr`, replace each element with its rank. The rank r
 - `0 <= arr.length <= 10^5`
 - `-10^9 <= arr[i] <= 10^9`
 
-&nbsp
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
+
+&nbsp;
 
 
 ## Problem Intuition:
