@@ -8,7 +8,7 @@
 #### Return the minimum number of groups you need to create.
 
 **Definition of Intersection**:
-Two intervals intersect if there is at least one common number between them. For example:
+Two intervals intersect if and only if there is at least one common number between them. For example:
 - The intervals `[1, 5]` and `[5, 8]` intersect because they both include the number `5`.
 
 ---
