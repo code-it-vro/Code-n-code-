@@ -26,6 +26,16 @@ var largestCombination = function (candidates) {
   return ans;
 };
 
+
+const candidates = [16, 17, 71, 62, 12, 24, 14];
+
+// Calling the function and displaying the output
+const result = largestCombination(candidates);
+console.log(
+  "The size of the largest combination with a bitwise AND greater than 0 is:",
+  result
+);
+
 /*
 Example Explanation:
 ====================
