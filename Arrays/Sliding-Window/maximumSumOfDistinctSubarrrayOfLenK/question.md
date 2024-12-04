@@ -62,10 +62,6 @@ We return `0` because no subarrays meet the conditions.
 
 
 
-
-
-
-
 ## **Intuition**
 The problem involves finding the maximum subarray sum of size `k` where all elements in the subarray are distinct. A straightforward approach would involve iterating through all subarrays of size `k`, but this is computationally expensive. Instead, we use the **sliding window technique** to efficiently manage subarray boundaries while maintaining the distinctness condition using a `Set`.
 
